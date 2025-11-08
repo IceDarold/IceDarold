@@ -1,8 +1,18 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f15,100:1a1a27&height=180&section=header&text=Artyom%20Konukhov&fontSize=48&fontColor=ffffff" alt="Artyom Konukhov header" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=EAEAEA&center=true&vCenter=true&width=600&lines=Reproducible+ML+Systems;Competitive+ML;RecSys+%7C+Deep+Metric+Learning;MLOps:+tracking%2C+CI%2FCD%2C+deploy" alt="typing" />
+</p>
+
+---
+
 # Artyom Konukhov — ML Engineer
 
 I build **reproducible ML systems** and learn in public. Interests: tabular ML, RecSys, deep metric learning, and MLOps (experiments, CI/CD, tracking, deployment).
 
-[Telegram](https://t.me/@ceDarold)
+[Telegram](https://t.me/ceDarold)
 
 ---
 
@@ -49,9 +59,14 @@ I build **reproducible ML systems** and learn in public. Interests: tabular ML, 
 ---
 
 ## Contact / links
-- Telegram: **@ceDarold** → <https://t.me/@ceDarold>
-- Or open an issue in any repo
+- Telegram: **@IceDarold** → <https://t.me/IceDarold>
 
 ---
 
-<sub>Organizations: @SDC-World · @grade10letovo</sub>
+<!-- snake -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IceDarold/IceDarold/output/github-snake-dark.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/IceDarold/IceDarold/output/github-snake.svg" />
+  </picture>
+</p>
