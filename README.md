@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0f15,100:1a1a27&height=180&section=header&text=Artyom%20Konukhov&fontSize=48&fontColor=ffffff" alt="Artyom Konukhov header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient,100:1a1a27&height=180&section=header&text=Artyom%20Konukhov&fontSize=48&fontColor=ffffff" alt="Artyom Konukhov header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=EAEAEA&center=true&vCenter=true&width=600&lines=Reproducible+ML+Systems;Competitive+ML;RecSys+%7C+Deep+Metric+Learning;MLOps:+tracking%2C+CI%2FCD%2C+deploy" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=blackA&center=true&vCenter=true&width=600&lines=Reproducible+ML+Systems;Competitive+ML;RecSys+%7C+Deep+Metric+Learning;MLOps:+tracking%2C+CI%2FCD%2C+deploy" alt="typing" />
 </p>
 
 ---
@@ -29,8 +29,6 @@ I build **reproducible ML systems** and learn in public. Interests: tabular ML, 
 - **[Kaggle-Metric-Learning-Course-Template](https://github.com/IceDarold/Kaggle-Metric-Learning-Course-Template)** — starter for a hands-on metric-learning course  
 - **[the-lab-academy](https://github.com/IceDarold/the-lab-academy)** — interactive learning platform prototype  
 - **[aiglass-landing-page](https://github.com/IceDarold/aiglass-landing-page)** — TypeScript landing page (experiments with product storytelling)
-
-> Tip: pin up to 6 repos on your profile to surface these.
 
 ---
 
