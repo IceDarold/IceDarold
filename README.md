@@ -12,7 +12,7 @@
 
 I build **reproducible ML systems** and learn in public. Interests: tabular ML, RecSys, deep metric learning, and MLOps (experiments, CI/CD, tracking, deployment).
 
-[Telegram](https://t.me/ceDarold)
+[Telegram](https://t.me/IceDarold)
 
 ---
 
